@@ -25,6 +25,8 @@
 * [The Review of Finance](http://www.revfin.org)
 * [Financial Management](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-053X/)
 * [Journal of Banking & Finance](https://www.journals.elsevier.com/journal-of-banking-and-finance/)
+* [Review of Accounting Studies](http://link.springer.com/journal/volumesAndIssues/11142)
+* [Contemporary Accounting Research](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1911-3846)
 
 
 ####中文期刊

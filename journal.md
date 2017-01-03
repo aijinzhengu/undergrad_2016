@@ -32,12 +32,12 @@
 * [The Quarterly Journal of Economics](http://qje.oxfordjournals.org)
 * [Journal of Political Economy](http://www.jstor.org/journal/jpoliecon)
 * [The Review of Economic Studies](http://restud.oxfordjournals.org)
-* [NBER](http://www.nber.org)
+
 
 ##Working paper
 * [NBER](http://www.nber.org)
 * [SSRN](https://www.ssrn.com/en/)
-* []()
+* [google scholar](https://scholar.google.com)
 
 ##Miscellaneous
 * [Management Science](http://pubsonline.informs.org/loi/mnsc)

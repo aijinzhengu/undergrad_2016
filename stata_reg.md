@@ -18,3 +18,7 @@
 ##结果列示
 * esttab
 * estpost
+
+##循环
+* forvalues 
+* foreach

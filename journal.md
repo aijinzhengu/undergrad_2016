@@ -13,6 +13,7 @@
 * [The Review of Finance](http://www.revfin.org)
 * [Financial Management](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-053X/)
 * [Journal of Banking & Finance](https://www.journals.elsevier.com/journal-of-banking-and-finance/)
+* [Journal of Corporate Finance](http://www.sciencedirect.com/science/journal/09291199)
 
 
 

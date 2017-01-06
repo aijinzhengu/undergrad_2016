@@ -26,7 +26,7 @@
 ####REFERENCES
 
 
-Altınkılıç, Oya, and Robert S. Hansen, 2009, On the information role of stock recommendation revisions, Journal of Accounting and Economics 48, 17–36.
+Altınkılıç, Oya, and Robert S. Hansen, 2009, On the information role of stock recommendation revisions, __Journal of   Accounting and Economics__ 48, 17–36.
 
 Bradley, Daniel, Sinan Gokkaya, and Xi Liu, 2016, Before an Analyst Becomes an Analyst: Does Industry Experience Matter?, The Journal of Finance, Accepted Author Manuscript. doi:10.1111/jofi.12466.
 

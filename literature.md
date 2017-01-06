@@ -48,7 +48,7 @@ Kadan, Ohad, Leonardo Madureira, Rong Wang, and Tzachi Zach, 2012, Analysts’ i
 
 Lin, Hsiou-Wei, and Maureen F. McNichols, 1998, Underwriting relationships, analysts’ earnings forecasts and investment recommendations, Journal of Accounting and Economics 25, 101–127.
 
-Loh, Roger K., and Ren?? M. Stulz, 2011, When are analyst recommendation changes influential?, Review of Financial Studies 24, 593–627.
+Loh, Roger K., and Rene M. Stulz, 2011, When are analyst recommendation changes influential?, Review of Financial Studies 24, 593–627.
 
 Malloy, Christopher J., 2005, The geography of equity analysis, Journal of Finance 60, 719–755.
 

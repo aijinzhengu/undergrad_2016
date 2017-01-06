@@ -23,7 +23,10 @@
 用Cheng et al. (2016)举个例子，这篇文章说参加上市调研的分析师随后在做盈利预测会更加准确，因为他们通过实地调研获得了信息。这种效应在那些通过调研能够获得更多信息优势的场景下更加明显，如之前分析师调研比较少、来调研的分析师所在的城市离上市公司远等。本文的贡献是用分析师的一项实际活动（调研）来验证分析师的信息获取对其预测水平的影响，这比地理优势、分析师会议、关系等会更加直接。用中国数据来做是因为在2009年后中国监管机构要求上市公司披露分析师调研的数据，美国不要求强制披露。
 
 
-####REFERENCES
+
+
+
+###REFERENCES
 
 
 Altınkılıç, Oya, and Robert S. Hansen, 2009, On the information role of stock recommendation revisions, _Journal of   Accounting and Economics_ 48, 17–36.

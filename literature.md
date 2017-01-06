@@ -21,3 +21,24 @@
 15. Bradley, Gokkaya, and Liu (2017)
 
 用Cheng et al. (2016)举个例子，这篇文章说参加上市调研的分析师随后在做盈利预测会更加准确，因为他们通过实地调研获得了信息。这种效应在那些通过调研能够获得更多信息优势的场景下更加明显，如之前分析师调研比较少、来调研的分析师所在的城市离上市公司远等。本文的贡献是用分析师的一项实际活动（调研）来验证分析师的信息获取对其预测水平的影响，这比地理优势、分析师会议、关系等会更加直接。用中国数据来做是因为在2009年后中国监管机构要求上市公司披露分析师调研的数据，美国不要求强制披露。
+
+
+####REFERENCES
+
+
+Altınkılıç, Oya, and Robert S. Hansen, 2009, On the information role of stock recommendation revisions, Journal of Accounting and Economics 48, 17–36.
+Bradley, Daniel, Sinan Gokkaya, and Xi Liu, 2016, Before an Analyst Becomes an Analyst: Does Industry Experience Matter?, The Journal of Finance, Accepted Author Manuscript. doi:10.1111/jofi.12466.
+Cheng, Qiang, Fei Du, Xin Wang, and Yutao Wang, 2016, Seeing Is Believing: Analysts’ Corporate Site Visits Review of Accounting Studies. Vol. 21 (Springer US).
+Das, Somnath, Re-Jin Guo, and Huai Zhang, 2006, Analysts’Selective Coverage and Subsequent Performance of Newly Public Firms, The Journal of Finance 61, 1159–1185.
+Fang, Lily, and Ayako Yasuda, 2009, The effectiveness of reputation as a disciplinary mechanism in sell-side research, Review of Financial Studies 22, 3735–3777.
+Hilary, Gilles, and Charles Hsu, 2013, Analyst Forecast Consistency, Journal of Finance 68, 271–297.
+Hong, Harrison, and Marcin Kacperczyk, 2010, Competition and bias, The Quarterly Journal of Economics 125, 1683–1725.
+Hong, Harrison, Jeffrey D Kubik, and Amit Solomon, 2000, Security analysts’ career concerns and herding of earnings forecasts., RAND Journal of Economics (RAND Journal of Economics) 31, 121–144.
+Juergens, Jennifer L., and Laura Lindsey, 2009, Getting out early: An analysis of market making activity at the recommending analyst’s firm, Journal of Finance 64, 2327–2359.
+Kadan, Ohad, Leonardo Madureira, Rong Wang, and Tzachi Zach, 2012, Analysts’ industry expertise, Journal of Accounting and Economics 54, 95–120.
+Lin, Hsiou-Wei, and Maureen F. McNichols, 1998, Underwriting relationships, analysts’ earnings forecasts and investment recommendations, Journal of Accounting and Economics 25, 101–127.
+Loh, Roger K., and Ren?? M. Stulz, 2011, When are analyst recommendation changes influential?, Review of Financial Studies 24, 593–627.
+Malloy, Christopher J., 2005, The geography of equity analysis, Journal of Finance 60, 719–755.
+Womack, K., 1996, Do brokerage analysts recommendations have investment value?, Journal of Finance 51, 137–167.
+Yu, Fang (Frank), 2008, Analyst coverage and earnings management, Journal of Financial Economics 88, 245–271.
+

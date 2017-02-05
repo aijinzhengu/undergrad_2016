@@ -16,7 +16,7 @@ https://github.com/aijinzhengu/undergrad_2016/blob/master/stata_reg.md
 
 需要做哪种回归的时候可以再查看具体帮助文件，如需要做面板回归，可以在命令窗口输入：
 
-```stata
+```Stata
 help areg
 help xtreg
 ```
@@ -29,7 +29,7 @@ help xtreg
 
 在报告回归结果的时候就要用到`esttab`就是来自第三方的`ado`文件，使用前需要从互联网下载安装：
 
-```stata
+```Stata
 ssc install estout
 help esttab    
 

@@ -11,7 +11,7 @@ http://www.ats.ucla.edu/stat/stata/
 比较常用的**回归**的命令，列在
 https://github.com/aijinzhengu/undergrad_2016/blob/master/stata_reg.md
 
-`Stata`官方给出的`Commands everyone should know`请见http://www.stata.com/manuals14/u27.pdf。这更侧重于一般功能，特别是数据整理。
+`Stata`官方给出的`Commands everyone should know`请见http://www.stata.com/manuals14/u27.pdf 。这更侧重于一般功能，特别是数据整理。
 
 
 需要做哪种回归的时候可以再查看具体帮助文件，如需要做面板回归，可以在命令窗口输入：

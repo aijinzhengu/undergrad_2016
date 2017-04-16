@@ -1,7 +1,7 @@
 
-#Stata常用命令
+# Stata常用命令
 
-##回归
+## 回归
 * reg
 * xtset
 * xtreg
@@ -9,18 +9,18 @@
 * logit/probit
 * ologit/oprobit
 
-##描述统计
+## 描述统计
 * summarize 
 * tabulate
 * tabstat 
 * ttest
 * correlate 
 
-##结果列示
+## 结果列示
 * esttab
 * estpost
 
-##循环
+## 循环
 * forvalues 
 * foreach
 

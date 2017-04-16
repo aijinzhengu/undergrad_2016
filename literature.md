@@ -1,4 +1,4 @@
-#文献阅读与讨论
+# 文献阅读与讨论
 
 2017年1月7日
 
@@ -30,7 +30,7 @@
 
 
 
-###REFERENCES
+### REFERENCES
 
 
 Altınkılıç, Oya, and Robert S. Hansen, 2009, On the information role of stock recommendation revisions, _Journal of   Accounting and Economics_ 48, 17–36.
